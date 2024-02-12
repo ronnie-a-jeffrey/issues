@@ -1,5 +1,5 @@
-print(issue check)
-print(process ongoing.....)
+print ("check")
+print ("process ongoing.....")
 
 
-print(issues checked!!!)
+print ("issues checked!!!")
